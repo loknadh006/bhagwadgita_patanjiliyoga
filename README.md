@@ -24,4 +24,4 @@ tqdm>=4.62.0
 pytest>=7.0.0
 matplotlib>=3.5.0
 seaborn>=0.11.2
-## pip install -r requirements.txt
+ pip install -r requirements.txt
