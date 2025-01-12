@@ -25,3 +25,8 @@ pytest>=7.0.0
 matplotlib>=3.5.0
 seaborn>=0.11.2
  pip install -r requirements.txt
+## How to Host Models
+Upload the fine-tuned models to:
+
+Hugging Face Hub or
+Cloud storage (e.g., Google Drive, AWS S3) and share the links.
